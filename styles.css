@@ -1,0 +1,11 @@
+tr[class="read"] {
+  background-image: linear-gradient(lightgreen, green);
+}
+
+tr[class="to-read"] {
+  background-image: linear-gradient(lightgray, gray);
+}
+
+tr[class="in-progress"] {
+  background-image: linear-gradient(lightyellow, yellow);
+}
